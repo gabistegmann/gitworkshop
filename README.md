@@ -1,1 +1,4 @@
-# Git Workshop Readme
+# Git Workshop
+
+**Dependencies**
+Just a computer. Git works everywhere!
